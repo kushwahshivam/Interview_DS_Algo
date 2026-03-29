@@ -3,6 +3,7 @@
 	    MY YOUTUBE VIDEO ON THIS Qn : 
     	Company Tags  		          : will update later
     	Leetcode Link 		          : https://leetcode.com/problems/direction-assignments-with-exactly-k-visible-people
+		Want to learn this concept ?  : https://www.youtube.com/watch?v=FMBW7m1Wap0
 */
 
 
