@@ -314,5 +314,10 @@
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Mathematical/Fancy%20Sequence.cpp"> Fancy Sequence (Leetcode - 1622) </a>
 				</td>
 			</tr>
+			<tr>
+       			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Mathematical/Direction%20Assignments%20with%20Exactly%20K%20Visible%20People.cpp"> Direction Assignments with Exactly K Visible People (Leetcode - 3881) </a>
+				</td>
+			</tr>
 		</tbody>
 </table>
