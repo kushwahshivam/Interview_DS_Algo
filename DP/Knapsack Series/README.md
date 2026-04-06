@@ -44,3 +44,11 @@
     	</tr>
 	</tbody>
 </table>
+
+---
+
+<div align="center">
+
+*Made with ❤️ by [@MIK](https://github.com/MAZHARMIK)*
+
+</div>
