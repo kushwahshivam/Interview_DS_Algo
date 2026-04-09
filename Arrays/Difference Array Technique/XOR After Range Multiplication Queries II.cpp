@@ -1,6 +1,6 @@
 /*     Scroll below to see JAVA code also    */
 /*
-    MY YOUTUBE VIDEO ON THIS Qn : 
+    MY YOUTUBE VIDEO ON THIS Qn : https://www.youtube.com/watch?v=O3rF3W23PNg
     Company Tags                : will update later
     Leetcode Link               : https://leetcode.com/problems/xor-after-range-multiplication-queries-ii
     Pre-Requisite               : https://youtu.be/sG5Lm8vi-2Q?si=RPIFVWUIRCyqCn06 (Difference Array Technique with Jumps)
