@@ -204,5 +204,10 @@
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/HashMap/Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20II.cpp"> Check if Strings Can be Made Equal With Operations II (Leetcode - 2840)</a>
 				</td>
 			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/HashMap/Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I%20%26%20II.cpp"> Minimum Distance Between Three Equal Elements I & II (Leetcode - 3740 & 3741)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>
