@@ -19,18 +19,21 @@ public:
         int n = nums.size();
 
         unordered_map<int, vector<int>> mp;
-        int result = n;
+        int result = INT_MAX;
 
         for(int k = 0; k < n; k++) {
             mp[nums[k]].push_back(k);
 
             if(mp[nums[k]].size() >= 3) {
-                int i = mp[nums[k]][mp[nums[k]].size() - 3];
+                vector<int> &vec = mp[nums[k]];
+                int siz = vec.size();
+
+                int i = vec[siz-3];
                 result = min(result, k-i);
             }
         }
 
-        return result >= n ? -1 : 2*result;
+        return result >= INT_MAX ? -1 : 2*result;
     }
 };
 
@@ -55,7 +58,8 @@ class Solution {
 
             if (mp.get(nums[k]).size() >= 3) {
                 List<Integer> list = mp.get(nums[k]);
-                int i = list.get(list.size() - 3);
+                int siz = vec.size();
+                int i = list.get(siz - 3);
                 result = Math.min(result, k - i);
             }
         }
