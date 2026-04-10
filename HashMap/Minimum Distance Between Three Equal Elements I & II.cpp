@@ -1,6 +1,6 @@
 /*     Scroll below to see JAVA code also    */
 /*
-    MY YOUTUBE VIDEO ON THIS Qn : 
+    MY YOUTUBE VIDEO ON THIS Qn : https://www.youtube.com/watch?v=Qio1gMSEzG8
     Company Tags                : will update later
     Leetcode Link               : https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i
                                   https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii
